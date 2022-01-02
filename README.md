@@ -6,7 +6,11 @@ Egitim icerigi:
 -Python temelleri
 
 -Obje odakli programlama
+
 -Numpy
+
 -Pandas
+
 -Matplotlib
+
 -Tensorflow
